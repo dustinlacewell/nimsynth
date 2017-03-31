@@ -15,6 +15,7 @@ import master
 import sequencer
 import synth
 import tb303
+import oscillator
 import gbsynth
 import organ
 import fmsynth
